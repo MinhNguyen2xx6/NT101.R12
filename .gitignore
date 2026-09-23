@@ -1,0 +1,7 @@
+# Bỏ qua các tệp thực thi và bộ nhớ tạm
+*.exe
+*.o
+*.out
+__pycache__/
+*.pyc
+.DS_Store
